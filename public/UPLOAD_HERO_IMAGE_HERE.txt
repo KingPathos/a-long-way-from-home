@@ -1,0 +1,6 @@
+UPLOAD YOUR HERO IMAGE HERE
+============================
+
+Please upload your hero image directly into this folder (/public/) named exactly:
+
+hero-album-match.png

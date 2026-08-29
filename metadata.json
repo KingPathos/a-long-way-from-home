@@ -1,0 +1,6 @@
+{
+  "name": "A Long Way From Home",
+  "description": "Official album experience for A Long Way From Home by DARRIK — An 80’s soul moving through the AI age.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

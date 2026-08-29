@@ -1,0 +1,19 @@
+UPLOAD YOUR 14 MP3 TRACKS HERE
+=================================
+
+Please upload your MP3 files into this folder (/public/audio/) with these exact filenames:
+
+01. built-different.mp3
+02. stranger-things.mp3
+03. see-me-now.mp3
+04. i-love-to-win.mp3
+05. sharing-locations.mp3
+06. part-time-lovers.mp3
+07. futuristic-love.mp3
+08. young-wild-wealthy.mp3
+09. racks-to-the-ceiling.mp3
+10. put-that-on.mp3
+11. 80s-baby.mp3
+12. whispers.mp3
+13. dont-let-that-bother-you.mp3
+14. last-apology.mp3
